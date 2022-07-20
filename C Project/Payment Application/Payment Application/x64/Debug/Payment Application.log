@@ -1,0 +1,8 @@
+﻿  app.c
+  terminal.c
+E:\Study\Embedded Systems Professional FWD\5. C Project\Payment Application\Payment Application\terminal.c(8,2): warning C4013: 'gets' undefined; assuming extern returning int
+E:\Study\Embedded Systems Professional FWD\5. C Project\Payment Application\Payment Application\terminal.c(9,12): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\Study\Embedded Systems Professional FWD\5. C Project\Payment Application\Payment Application\terminal.c(19,55): warning C4047: 'function': 'const char *' differs in levels of indirection from 'uint8_t (*)[6]'
+E:\Study\Embedded Systems Professional FWD\5. C Project\Payment Application\Payment Application\terminal.c(19,27): warning C4024: 'atoi': different types for formal and actual parameter 1
+  Generating Code...
+  Payment Application.vcxproj -> E:\Study\Embedded Systems Professional FWD\5. C Project\Payment Application\x64\Debug\Payment Application.exe
