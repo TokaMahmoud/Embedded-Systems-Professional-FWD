@@ -1,0 +1,15 @@
+﻿  app.c
+  card.c
+E:\Study\Embedded Systems Professional FWD\5. C Project\Payment Application\Payment Application\card.c(7,2): warning C4013: 'gets' undefined; assuming extern returning int
+E:\Study\Embedded Systems Professional FWD\5. C Project\Payment Application\Payment Application\card.c(8,12): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\Study\Embedded Systems Professional FWD\5. C Project\Payment Application\Payment Application\card.c(17,12): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\Study\Embedded Systems Professional FWD\5. C Project\Payment Application\Payment Application\card.c(28,12): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  server.c
+E:\Study\Embedded Systems Professional FWD\5. C Project\Payment Application\Payment Application\server.c(17,7): warning C4013: 'atoll' undefined; assuming extern returning int
+  terminal.c
+E:\Study\Embedded Systems Professional FWD\5. C Project\Payment Application\Payment Application\terminal.c(8,2): warning C4013: 'gets' undefined; assuming extern returning int
+E:\Study\Embedded Systems Professional FWD\5. C Project\Payment Application\Payment Application\terminal.c(9,12): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\Study\Embedded Systems Professional FWD\5. C Project\Payment Application\Payment Application\terminal.c(20,55): warning C4047: 'function': 'const char *' differs in levels of indirection from 'uint8_t (*)[6]'
+E:\Study\Embedded Systems Professional FWD\5. C Project\Payment Application\Payment Application\terminal.c(20,27): warning C4024: 'atoi': different types for formal and actual parameter 1
+  Generating Code...
+  Payment Application.vcxproj -> E:\Study\Embedded Systems Professional FWD\5. C Project\Payment Application\x64\Debug\Payment Application.exe
